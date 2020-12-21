@@ -10,8 +10,9 @@ Open another terminal and execute the following commands in sequence from inside
 1. npm install
 2. cd server
 3. npm install
-4. cd ..
-5. npm start
+4. npm start
+5. cd ..
+6. npm start
 ```
 
 and access the application at http://localhost:3030/
